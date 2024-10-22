@@ -10,7 +10,7 @@ Recently transitioned into the tech industry , focusing on frontend development 
 * 🖥️  See my portfolio at [MyPortfolio](http://nathangoh95.github.io/nategprofile/)
 * ✉️  You can contact me at [gohjunhao95@gmail.com](mailto:gohjunhao95@gmail.com)
 * 🧠  I'm learning TypeScript, MobX, PHP
-* ⚡  I'm an introvert, but once the ice is melt I can be an extrovert too :)
+* ⚡  I'm an introvert, but once the ice melt I can be an extrovert too :)
 
 ### Skills
 
